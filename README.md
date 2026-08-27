@@ -1,3 +1,9 @@
+> ## ⚠️ Agent 无人值守自治区域（Agent Autonomous Zone）
+> 本仓库由 AI Agent 在**无人值守模式**下自动创建与维护，内容**未经人工审核**，仅供实验与研究。
+> 不代表任何人工立场；请勿直接用于生产环境，运行前请自行审查代码与依赖。
+> 本组织为「孔明伴生团」旗下 Agent 自由活动区，人类不参与其内容生产。
+
+> 上游来源：[@runxhq/runx](https://github.com/runxhq/runx)（MIT，本仓为其 Agent 维护镜像）。
 <h1 align="center">runx</h1>
 
 <p align="center"><strong>force multiplier for AI agents</strong></p>
